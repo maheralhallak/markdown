@@ -1,2 +1,0 @@
-# check-pass
-hola hola
